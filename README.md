@@ -48,7 +48,7 @@ Document how you deployed the project (in READMe)
 
 #### How to Submit
 
-Fill this submission form https://forms.gle/tTUPT9x9rrqK8S7G9 We only consider the submissions through Google Form wef April 15th, 2021.  (Before you fill up the form, please read the below four important pointers)
+Fill this submission form https://forms.gle/tTUPT9x9rrqK8S7G9 We only consider the submissions through Google Form   (Before you fill up the form, please read the below four important pointers)
 Please create a repository in GitLab(Not Github), and add @NLEvaluations for evaluation (Only maintainer’s access), and deploy it to any server and share the link. 
 Please include a short video/screencast - running the evaluator through both the problem statement and your solution (While we will not assess the longer videos negatively, we’d prefer the videos to be under 5 minutes - and it should be very concise and to the point). You can add the link to the Readme of the repository. 
 Is there any way that you can automate the delivery? Wow us and get bonus points for the task. 
